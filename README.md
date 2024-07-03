@@ -11,5 +11,5 @@ As part of learning to code,I completed a project that involved creating a basic
 
 
 ## Screenshot-
-https://github.com/SushantSail/Spotify-Clone/blob/main/assets/SpotifyClone.PNG
+![image](https://github.com/SushantSail/Spotify-Clone/blob/main/assets/SpotifyClone.PNG)
 
